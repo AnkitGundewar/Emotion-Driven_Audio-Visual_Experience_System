@@ -123,7 +123,7 @@ Change both to a directory on your machine, and point the TouchDesigner file inp
 
 ### 5. TouchDesigner project
 
-The TouchDesigner files are larger than GitHub's 100 MB limit, so they're hosted on **[Google Drive](https://drive.google.com/drive/folders/10F8p6IGKb4LrwuBaPldexfLIcjgDjU2L?usp=sharing)**. Download them, set up Stable Diffusion locally, and update any module paths that still use their defaults.
+The TouchDesigner files are larger than GitHub's 100 MB limit, so they're hosted on **[Google Drive](https://drive.google.com/drive/folders/1y-JZFFD8MT3kFVQhoCAvIkZFeGOpYXu4?usp=share_link)**. Download them, set up Stable Diffusion locally, and update any module paths that still use their defaults.
 
 ---
 
